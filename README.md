@@ -1,4 +1,4 @@
-![alt text](assets/bannersleinbrein.png)
+![alt text](assets/bannersleinbrein.gif)
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
