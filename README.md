@@ -4,7 +4,7 @@
 
 # 👱‍♂️ About me
 
-Super cool that you are checking out my profile page! You are currently on @Sleinbrein's or Niels' Github Page. At the time of writing this, I am 18 years old and studying Computer Science because that is what I love! ❤️ <br>
+Super cool that you are checking out my profile page! You are currently on @Sleinbrein's or Niels' Github Page. At the time of writing this, I am 19 years old and studying Computer Science because that is what I love! ❤️ <br>
 I'm currently building some captivating projects to practice a lot, so make sure you go check them out!
 
 ![](https://github-readme-stats.vercel.app/api?username=Sleinbrein&count_private=true&show_icons=true&theme=dracula)
