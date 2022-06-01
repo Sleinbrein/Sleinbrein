@@ -1,10 +1,10 @@
 ![alt text](assets/bannersleinbrein.gif)
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="40" height="40">
 
 # 👱‍♂️ About me
 
-Super cool that you are checking out my profile page! You are currently on @Sleinbrein's or Niels' Github Page. At the time of writing this, I am 20 years old and studying Computer Science because that is what I love! ❤️ <br>
+Super cool that you are checking out my profile page! You are currently on [@Sleinbrein](https://github.com/Sleinbrein)'s or Niels' Github Page. At the time of writing this, I am 20 years old and studying Computer Science because that is what I love! ❤️ <br>
 I'm currently building some captivating projects to practice a lot, so make sure you go check them out!
 
 ![](https://github-readme-stats.vercel.app/api?username=Sleinbrein&count_private=true&show_icons=true&theme=dracula)
